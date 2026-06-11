@@ -24,7 +24,7 @@
 ### Local Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DontDisplay.git
+git clone https://github.com/yigitkand3mir/DontDisplay.git
 cd DontDisplay
 pip install -r requirements.txt
 python app.py
